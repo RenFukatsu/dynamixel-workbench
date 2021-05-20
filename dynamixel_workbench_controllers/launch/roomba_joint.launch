@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
   <arg name="usb_port"                default="/dev/ttyUSB1"/>
   <arg name="dxl_baud_rate"           default="57600"/>
@@ -22,5 +23,7 @@
         seperation_between_wheels: 0.160  <!--default value is set by reference of TB3-->
         radius_of_wheel: 0.033            <!--default value is set by reference of TB3-->
     </rosparam>
+    <!--<remap>-->
+
   </node>
 </launch>

@@ -4,11 +4,66 @@
 # This example is compatible with Dynamixel using protocol 2.0
 
 dynamixel:
-  ID: 1
-  Return_Delay_Time: 0
-  Operating_Mode: 3
-  Profile_Acceleration: 0
-  Profile_Velocity: 0
-  LED: 1
-  Homing_Offset: 1024
+    ID: 1
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: 1024
+
+
+dynamixel:
+    ID: 11
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: 495
+
+dynamixel:
+    ID: 2
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: -150
+
+dynamixel:
+    ID: 3
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: 1024
+
+dynamixel:
+    ID: 4
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: -70
+
+dynamixel:
+    ID: 5
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: -203
+
+dynamixel:
+    ID: 6
+    Return_Delay_Time: 0
+    Operating_Mode: 3
+    Profile_Acceleration: 0
+    Profile_Velocity: 0
+    LED: 1
+    Homing_Offset: -403
 
