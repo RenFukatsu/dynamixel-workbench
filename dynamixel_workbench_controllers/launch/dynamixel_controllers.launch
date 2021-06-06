@@ -6,7 +6,7 @@
 
   <arg name="use_moveit"              default="false"/>
   <arg name="use_joint_state"         default="true"/>
-  <arg name="use_cmd_vel"             default="false"/>
+  <arg name="use_cmd_vel"             default="true"/>
 
   <param name="dynamixel_info"          value="$(find dynamixel_workbench_controllers)/config/basic.yaml"/>
 

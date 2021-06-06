@@ -10,7 +10,7 @@ dynamixel:
     Profile_Acceleration: 0
     Profile_Velocity: 0
     LED: 1
-    Homing_Offset: 1024
+    Homing_Offset: -270
 
 
 dynamixel:
@@ -23,7 +23,7 @@ dynamixel:
     Homing_Offset: 495
 
 dynamixel:
-    ID: 2
+    ID: 12
     Return_Delay_Time: 0
     Operating_Mode: 3
     Profile_Acceleration: 0
@@ -32,7 +32,7 @@ dynamixel:
     Homing_Offset: -150
 
 dynamixel:
-    ID: 3
+    ID: 13
     Return_Delay_Time: 0
     Operating_Mode: 3
     Profile_Acceleration: 0
@@ -41,7 +41,7 @@ dynamixel:
     Homing_Offset: 1024
 
 dynamixel:
-    ID: 4
+    ID: 14
     Return_Delay_Time: 0
     Operating_Mode: 3
     Profile_Acceleration: 0
@@ -50,7 +50,7 @@ dynamixel:
     Homing_Offset: -70
 
 dynamixel:
-    ID: 5
+    ID: 15
     Return_Delay_Time: 0
     Operating_Mode: 3
     Profile_Acceleration: 0
@@ -59,7 +59,7 @@ dynamixel:
     Homing_Offset: -203
 
 dynamixel:
-    ID: 6
+    ID: 16
     Return_Delay_Time: 0
     Operating_Mode: 3
     Profile_Acceleration: 0
