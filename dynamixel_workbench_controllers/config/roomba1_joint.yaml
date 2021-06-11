@@ -5,4 +5,4 @@ dynamixel:
     Profile_Acceleration: 0
     Profile_Velocity: 0
     LED: 1
-    Homing_Offset: 495
+    Homing_Offset: -320
